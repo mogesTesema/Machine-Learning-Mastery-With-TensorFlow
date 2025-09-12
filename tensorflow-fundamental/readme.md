@@ -1,0 +1,1 @@
+### this is general intro to machine learning world exercise training 
