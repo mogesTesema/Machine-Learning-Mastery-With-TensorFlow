@@ -1,0 +1,101 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d4166670",
+   "metadata": {
+    "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
+    "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
+    "papermill": {
+     "duration": 0.001984,
+     "end_time": "2025-10-27T08:14:39.137572",
+     "exception": false,
+     "start_time": "2025-10-27T08:14:39.135588",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1b525d27",
+   "metadata": {
+    "papermill": {
+     "duration": 0.001464,
+     "end_time": "2025-10-27T08:14:39.141002",
+     "exception": false,
+     "start_time": "2025-10-27T08:14:39.139538",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "# Introduction to NLP Fundematals in TensorFlow\n",
+    "NLP has the goal of deriving information out of natural language(could be sequences text or speech)\n",
+    "Another common term for NLP problems is sequence to squence problems(seq2seq)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "00cc1b78",
+   "metadata": {
+    "papermill": {
+     "duration": 0.001228,
+     "end_time": "2025-10-27T08:14:39.143708",
+     "exception": false,
+     "start_time": "2025-10-27T08:14:39.142480",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kaggle": {
+   "accelerator": "none",
+   "dataSources": [],
+   "dockerImageVersionId": 31153,
+   "isGpuEnabled": false,
+   "isInternetEnabled": true,
+   "language": "python",
+   "sourceType": "notebook"
+  },
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.13"
+  },
+  "papermill": {
+   "default_parameters": {},
+   "duration": 5.900646,
+   "end_time": "2025-10-27T08:14:39.567635",
+   "environment_variables": {},
+   "exception": null,
+   "input_path": "__notebook__.ipynb",
+   "output_path": "__notebook__.ipynb",
+   "parameters": {},
+   "start_time": "2025-10-27T08:14:33.666989",
+   "version": "2.6.0"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
