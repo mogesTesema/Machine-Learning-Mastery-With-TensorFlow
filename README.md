@@ -1,11 +1,11 @@
-# 🧠 Machine Learning Mastery With TensorFlow  
+# 🧠 Machine Learning With TensorFlow  
 *A hands-on journey to mastering Machine Learning with TensorFlow*
 
 ---
 
 ## 🚀 About This Repository  
 
-Welcome to my **Machine Learning Mastery With TensorFlow** repository.  
+Welcome to my **Machine Learning With TensorFlow** repository.  
 This project is my personal learning lab — a collection of all the machine learning and deep learning projects I’ve completed while studying and experimenting with TensorFlow.  
 
 Here, you’ll find a structured path through the foundations of machine learning — from simple regression tasks to advanced neural networks, transfer learning, and natural language processing.  
@@ -34,15 +34,15 @@ Each project is implemented in a Jupyter notebook with explanations, code walkth
 
 ## 🧩 Repository Structure  
 
-Machine-Learning-Mastery-With-TensorFlow/
-├── tensorflow-fundamentals/        # Core TensorFlow and DL basics
-├── regression/                      # Regression projects
-├── classification/                  # Classification problems
-├── computer-vision/                 # Image-based ML projects
-├── NLP/                             # NLP and text classification
-├── helper_functions.py              # Custom helper utilities
-└── LICENSE                          # License
-└── README.md                        # Project overview (this file)
+- `Machine-Learning-With-TensorFlow/`
+  - `tensorflow-fundamentals/` — Core TensorFlow and DL basics
+  - `regression/` — Regression projects
+  - `classification/` — Classification problems
+  - `computer-vision/` — Image-based ML projects
+  - `NLP/` — NLP and text classification
+  - `helper_functions.py` — Custom helper utilities
+  - `README.md` — Project overview (this file)
+
  
 
 
@@ -59,8 +59,8 @@ Machine-Learning-Mastery-With-TensorFlow/
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/mogesTesema/Machine-Learning-Mastery-With-TensorFlow.git
-cd Machine-Learning-Mastery-With-TensorFlow
+git clone https://github.com/mogesTesema/Machine-Learning-With-TensorFlow.git
+cd Machine-Learning-With-TensorFlow
 ```
 ### 2️⃣ Install dependencies
 
@@ -111,4 +111,5 @@ You are free to use, modify, and distribute this project as long as you include 
 
 # “Learning by doing — one model at a time.” — Moges Tesema
 ## ✅ Thank you for checking out this repository! If you find it helpful, consider giving it a ⭐ on GitHub.
+
 
