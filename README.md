@@ -110,6 +110,10 @@ I’d love to collaborate with others who are also learning or working with Tens
 You are free to use, modify, and distribute this project as long as you include attribution.
 
 # “Learning by doing — one model at a time.” — Moges Tesema
-## ✅ Thank you for checking out this repository! If you find it helpful, consider giving it a ⭐ on GitHub.
+
+
+
+### ✅ Thank you for checking out this repository! If you find it helpful, consider giving it a ⭐ on GitHub.
+
 
 
