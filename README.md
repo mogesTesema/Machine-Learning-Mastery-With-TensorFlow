@@ -35,14 +35,16 @@ Each project is implemented in a Jupyter notebook with explanations, code walkth
 ## 🧩 Repository Structure  
 
 Machine-Learning-Mastery-With-TensorFlow/
-│
-├── tensorflow-fundamentals/ # Core TensorFlow and DL basics
-├── regression/ # Regression projects
-├── classification/ # Classification problems
-├── computer-vision/ # Image-based ML projects
-├── NLP/ # NLP and text classification
-├── helper_functions.py # Custom helper utilities
-└── README.md # Project overview (this file)
+├── tensorflow-fundamentals/        # Core TensorFlow and DL basics
+├── regression/                      # Regression projects
+├── classification/                  # Classification problems
+├── computer-vision/                 # Image-based ML projects
+├── NLP/                             # NLP and text classification
+├── helper_functions.py              # Custom helper utilities
+└── LICENSE                          # License
+└── README.md                        # Project overview (this file)
+ 
+
 
 
 
@@ -63,7 +65,9 @@ cd Machine-Learning-Mastery-With-TensorFlow
 ### 2️⃣ Install dependencies
 
 You can install the required packages with:
+```
 pip install tensorflow numpy pandas matplotlib jupyterlab
+```
 
 
 ## 🌍 My Motivation
@@ -107,3 +111,4 @@ You are free to use, modify, and distribute this project as long as you include 
 
 # “Learning by doing — one model at a time.” — Moges Tesema
 ## ✅ Thank you for checking out this repository! If you find it helpful, consider giving it a ⭐ on GitHub.
+
